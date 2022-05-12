@@ -10,6 +10,8 @@ Codes used:
 
 [app.js](https://github.com/lfhoepers/UFOs/blob/a580a1b7ed34d82f16bf091b6cfff030b10820ac/static/js/app.js)
 
+[data.js](https://github.com/lfhoepers/UFOs/blob/ec100d754345291cdeec06ec3dd4f1f33ce14a1e/static/js/data.js)
+
 ## Results:
 
 The UFO detail is listed in the Table selection at the right of the page.
